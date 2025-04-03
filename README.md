@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=tinfoil-json)
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=tinfoil-shops)
 
 ### Hello! This is a GitHub page storing the information of various Tinfoil shop links.
 ___
