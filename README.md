@@ -1,16 +1,12 @@
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml)
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=tinfoil-shops)
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20shops)
 
 ### Hello! This is a GitHub page storing the information of various Tinfoil shop links.
 
    <div class="github-section">
                 <p>If you find this tool useful, please consider starring our repository:</p>
-                <a href="https://github.com/melogabriel/tinfoil-shops" target="_blank" rel="noopener noreferrer" class="github-button">
-                    <svg height="16" width="16" viewBox="0 0 16 16" aria-label="GitHub Star Icon">
-                        <path fill="currentColor" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/>
-                    </svg>
-                    Star on GitHub
+                <a href="https://github.com/melogabriel/tinfoil-shops" target="_blank" rel="noopener noreferrer" class="github-button"> Star on GitHub </a> 
     </div>                
 ___
 
