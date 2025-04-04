@@ -10,22 +10,53 @@ ___
 
 ## Shop Links
 
+To add shops to Tinfoil go to Tinfoil > File Browser > Press - New > Fill the fields with the information about the shop you want.
+
+## oragne
+
+This repository installs a package with the stores below. Adding this should be enough and recommended for your game library.
+
 ```
-# Ultra NX (Available)
+Protocol: https
+Host: tinfoil.oragne.dev
+Path: tinfoil.json
+Title: oragne shop
+```
+
+If the one above isn't functioning, try this one below:
+
+```
+Protocol: https
+Host: raw.githubusercontent.com
+Path: orn8/tinfoil/main/tinfoil.json
+Title: oragne shop
+```
+## Egg Fried Rize Shop (Available)
+
+```
+Protocol: https
+Host: cyrilz87.net
+Title: Egg Fried Rice Shop
+```
+
+## Ultra NX (Available)
+
+```
 Protocol: https
 Host: tinfoil.ultranx.ru
 Path:/tinfoil
 Title: Ultra NX
 ```
 
+## Ghost eShop (Under maintenance)
 ```
-# Ghost eShop (Under maintenance)
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
 ```
+## Ghost eShop RETRO (Under maintenance)
+
 ```
-# Ghost eShop RETRO
 Protocol: https
 Host: nx-retro.ghostland.at
 Title: Ghost eShop RETRO
@@ -41,138 +72,22 @@ Path: shop
 Title: JITS
 ```
 
+## Ecchi's Firmware Archives (download all of switch firmware from Tinfoil)
+
 ```
-# Ecchi's Firmware Archives (download all of switch firmware from Tinfoil)
 Protocol: https
 Host: e.cchi.me
 Path: firmware.tfl
 Title: EFA
 ```
 
+## Ecchi's Archives (download save files and install them to your Switch [auto added by Tinfoil] )
+
 ```
-# Ecchi's Archives (download save files and install them to your Switch [auto added by Tinfoil] )
 Protocol: https
 Host: e.cchi.me
 Title: ESA
 ```
-## Shops requiring a Licence Key
-
-```
-# Kronos Zenten Shop (buy a monthly licence from Kronos at https://discord.com/invite/kscctYj)
-Protocol: https
-Host: myrincon.es
-Path: net/Zenten
-Title: Kronos Zenten Shop
-```
-
-## Backup of N/A Shops
-```
-# Liberashop (discontinued)
-Protocol: https
-Host: liberashop.rs
-Title: Liberashop
-```
-
-```
-# Stealth Shop (RIP)
-Protocol: https
-Host: stealthshop.cf
-Title: Stealth Shop
-```
-
-```
-# Pengu Shop (RIP)
-Protocol: https
-Host: pengu.us
-Title: Pengu Shop
-```
-```
-# QuotaShop (RIP)
-Protocol: https
-Host: quotanx.in
-Title: QuotaShop
-```
-
-```
-# ReDUMP Shop (RIP)
-Protocol: https
-Host: redump.cf
-Title: ReDUMP Shop
-```
-
-```
-# Voxhost Tinfoil Server (RIP, thanks for your help before)
-Protocol: https
-Host: tinfoilhost.voxhost.fr
-Title: Voxhost Tinfoil Server
-```
-
-```
-# 雷禪商店 Rayzen Shop (RAP)
-Protocol: https
-Host: tiny.cc
-Path: Rayzen-vip
-Title: Rayzen Shop
-```
-
-```
-# TITS 2 (RIP)
-Protocol: https
-Host: tiny.cc
-Path: turtleshop
-Title: TITS 2
-```
-
-```
-# UnderPrivileged Shop (RIP, all downloads are 404)
-Protocol: https
-Host: cdn.discordapp.com
-Path: attachments/531350560549634069/902073525370765352/Under.tfl
-Title: UnderPrivileged Shop
-```
-```
-# Nekoshop (RIP)
-Protocol: https
-Host: nekoshop.cf
-Title: Nekoshop
-```
-
-```
-# TITS (RIP)
-Protocol: https
-Host: titz.cf
-Title: TITS
-```
-```
-# PixelShop (RIP)
-* Get access key from their Discord (https://pixelshop.lol)
-```
-
-```
-# RetroRom Shop (RIP)
-* Join their Discord (https://retrorom.shop)
-```
-
-```
-# A-Network Tinfoil Shop (RIP)
-Protocol: nut
-Host: a-network.ca
-Port: 9000
-Username: reddit
-Password: reddit
-Title: A-Network Tinfoil Shop
-```
-```
-# Bikeborb's Shop (RIP)
-discord: unknown
-```
-
-```
-# Teknik Shop (RIP)
-* Get access key from their Discord (https://discord.com/invite/teknik)
-```
-
----
 
 # Requirements
 
