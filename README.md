@@ -1,6 +1,8 @@
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml)
+[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/959189261/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/959189261/week.md)
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20shops)
+
 
 ### Hello! This is a GitHub page storing the information of various Tinfoil shop links.
 
@@ -14,7 +16,7 @@ To add shops to Tinfoil go to Tinfoil > File Browser > Press - New > Fill the fi
 
 ## oragne
 
-This repository installs a package with the stores below. Adding this should be enough and recommended for your game library.
+This repository installs a package with the shops below. Adding this one should be enough and recommended for your game library.
 
 ```
 Protocol: https
