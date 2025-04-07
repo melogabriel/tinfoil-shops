@@ -1,5 +1,5 @@
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml)
-[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/959189261/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/959189261/week.md)
+
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20shops)
 
