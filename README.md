@@ -4,7 +4,7 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20shops)
 
 
-### Hello! This is a GitHub page storing the information of various Tinfoil shop links.
+### Hello! This is a GitHub page to list links to active and working tinfoil shops for nintendo switch.
 
 If you find this tool useful, please consider starring our repository: [Star on Github](https://github.com/melogabriel/tinfoil-shops)
                
