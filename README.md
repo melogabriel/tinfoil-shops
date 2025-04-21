@@ -43,7 +43,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Ultra NX (Available)
+## Ultra NX (⚠️ Possibly blank or minimal content)
 
 ```
 Protocol: https
