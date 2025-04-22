@@ -35,7 +35,7 @@ Host: raw.githubusercontent.com
 Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
-## Egg Fried Rize Shop (Available)
+## Egg Fried Rize Shop (⚠️ Unavailable )
 
 ```
 Protocol: https
@@ -43,7 +43,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Ultra NX (⚠️ Possibly blank or minimal content)
+## Ultra NX (⚠️ Unavailable )
 
 ```
 Protocol: https
