@@ -35,6 +35,16 @@ Host: raw.githubusercontent.com
 Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
+
+## NX Shared Saves (Available) 
+
+This shop contains modified save files that are installable on many games.
+```
+Protocol: https
+Host: nx-saves.ghostland.at
+Title: NX Shared Saves
+```
+
 ## Egg Fried Rize Shop (⚠️ Unavailable )
 
 ```
