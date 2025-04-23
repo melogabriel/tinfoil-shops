@@ -36,7 +36,7 @@ Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
 
-## NX Shared Saves (Available) 
+## NX Shared Saves (⚠️ Unavailable) 
 
 This shop contains modified save files that are installable on many games.
 ```
@@ -45,7 +45,7 @@ Host: nx-saves.ghostland.at
 Title: NX Shared Saves
 ```
 
-## Egg Fried Rize Shop (⚠️ Unavailable )
+## Egg Fried Rize Shop (⚠️ Unavailable)
 
 ```
 Protocol: https
@@ -53,7 +53,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Ultra NX (⚠️ Unavailable )
+## Ultra NX (⚠️ Unavailable)
 
 ```
 Protocol: https
