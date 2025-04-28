@@ -8,7 +8,7 @@
 
 If you find this tool useful, please consider starring our repository: [Star on Github](https://github.com/melogabriel/tinfoil-shops)
 
-To check which tinfoil shops are working now, go to [this page](https://melogabriel.github.io/tinfoil-shops-status/).
+To check which tinfoil shops are working now, go to [this repository](https://github.com/melogabriel/tinfoil-shops-status).
                
 ___
 
