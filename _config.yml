@@ -1,5 +1,9 @@
 title: My GitHub Pages Site
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll/minima@d4d779a
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
