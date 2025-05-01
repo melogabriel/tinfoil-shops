@@ -1,9 +1,9 @@
 title: Tinfoil Shops 
-remote_theme: jekyll/minima@d4d779a
+remote_theme: jekyll/minima@8106bd4
 
 plugins:
   - jekyll-seo-tag
-
+google_analytics: G-SGVB5NZ2DK
 minima:
   skin: auto
   hide_site_feed_link: true
