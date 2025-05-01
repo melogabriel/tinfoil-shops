@@ -7,5 +7,4 @@ plugins:
 
 minima:
   skin: auto
-
-hide_site_feed_link: true
+  hide_site_feed_link: true
