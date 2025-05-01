@@ -1,4 +1,4 @@
-title: My GitHub Pages Site
+title: Tinfoil Shops 
 remote_theme: jekyll/minima@d4d779a
 
 plugins:
@@ -7,3 +7,5 @@ plugins:
 
 minima:
   skin: auto
+
+hide_site_feed_link: true
