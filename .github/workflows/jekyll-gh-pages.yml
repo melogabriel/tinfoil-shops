@@ -1,10 +1,8 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-
-remote_theme: pages-themes/midnight@v0.2.0
-plugins: - jekyll-remote-theme
-
 name: Deploy GitHub Pages
-
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 on:
   # Runs on pushes targeting the default branch
   push:
