@@ -1,9 +1,3 @@
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml)
-
-
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20shops)
-
-
 ### Hello! This is a GitHub page to list links to active and working tinfoil shops for Nintendo Switch.
 
 If you find this tool useful, please consider starring our repository: [Star on Github](https://github.com/melogabriel/tinfoil-shops)
