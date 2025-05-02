@@ -36,6 +36,14 @@ Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
 
+## SwitchBR (Available)
+
+```
+Protocol: http
+Host: switchbr.com
+Title: SwitchBR
+```
+
 ## NX Shared Saves (Available) 
 
 This shop contains modified save files that are installable on many games.
