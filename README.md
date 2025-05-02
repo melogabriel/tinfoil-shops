@@ -36,7 +36,7 @@ Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
 
-## NX Shared Saves (⚠️ Unavailable) 
+## NX Shared Saves (Available) 
 
 This shop contains modified save files that are installable on many games.
 ```
