@@ -44,6 +44,16 @@ Host: switchbr.com
 Title: SwitchBR
 ```
 
+## World Digital (Available)
+
+```
+Protocol: https
+Host: free.worldigital-brasil.com
+Port: 443
+Path: /
+Title: world digital
+```
+
 ## NX Shared Saves (Available) 
 
 This shop contains modified save files that are installable on many games.
