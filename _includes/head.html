@@ -1,3 +1,31 @@
-<!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9085973245464650"
-  crossorigin="anonymous"></script>
+{%- comment -%}
+  This file overrides Minima's default head.
+  It includes the original theme content plus your custom script.
+{%- endcomment -%}
+
+{%- assign title = page.title | default: site.title -%}
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+{%- if site.plugins contains 'jekyll-seo-tag' -%}
+  {% seo %}
+{%- endif -%}
+
+{%- if site.minima.social_links -%}
+  {% include social.html %}
+{%- endif -%}
+
+{%- if site.plugins contains 'jekyll-feed' and site.minima.hide_site_feed_link != true -%}
+  <link type="application/atom+xml" rel="alternate" href="{{ '/feed.xml' | relative_url }}" title="{{ site.title }}">
+{%- endif -%}
+
+{%- if jekyll.environment == "production" -%}
+  <!-- Google AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9085973245464650"
+    crossorigin="anonymous"></script>
+{%- endif -%}
+
