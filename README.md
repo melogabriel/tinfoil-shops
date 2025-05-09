@@ -44,7 +44,7 @@ Host: switchbr.com
 Title: SwitchBR
 ```
 
-## World Digital (Available)
+## World Digital (⚠️ Unavailable)
 
 ```
 Protocol: https
