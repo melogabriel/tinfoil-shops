@@ -1,12 +1,12 @@
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml)
 
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20Shops)
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20Shops) <a href="https://www.buymeacoffee.com/gabrielmelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 ### Hello! This is a GitHub page to list links to active and working tinfoil shops for Nintendo Switch.
 
-If you find this tool useful, please consider starring our repository: [Star on Github](https://github.com/melogabriel/tinfoil-shops)
+If you find this tool useful, please consider starring our repository: [Star on Github](https://github.com/melogabriel/tinfoil-shops) 
 
 To check which tinfoil shops are working now, go to [this repository](https://github.com/melogabriel/tinfoil-shops-status).
                
@@ -159,8 +159,6 @@ ___
 * [Tinfoil Official Website](https://tinfoil.io)
 
 ---
-
-
 
 ## Legal Disclaimer (Thanks voxhost)
 - The author does not take any responsibility for your actions using this service.
