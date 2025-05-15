@@ -1,6 +1,7 @@
 {
     "locations": [
         {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop Retro NX", "action": "add"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"}
+        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"},
+        {"url": "http://switchbr.com/", "title": "SwitchBR", "action": "add"}
     ]
 }
