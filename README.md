@@ -151,7 +151,8 @@ ___
 
 ---
 
-## Legal Disclaimer (Thanks voxhost)
-- The author does not take any responsibility for your actions using this service.
+## Legal Disclaimer
 
-- The author is NOT affiliated with the content that you can retrieve thanks to any Tinfoil shop.
+> [!NOTE]  
+> The author does not take any responsibility for your actions using this service. The author is NOT affiliated with the content that you can retrieve thanks to any Tinfoil shop.
+
