@@ -18,13 +18,31 @@ To add shops to Tinfoil go to Tinfoil > File Browser > Press - New > Fill the fi
 
 ## Open NX
 
-This repository installs a package with the shops below. Adding this one should be enough and recommended for your game library.
+This repositories installs a package with the shops below. Adding this one should be enough and recommended for your game library.
 
 ```
 Protocol: https
 Host: opennx.github.io
 Path: /tinfoil.json
 Title: Open NX
+```
+
+Add this location to Tinfoil's file browser to use oragne shop:
+
+```
+Protocol: https
+Host: tinfoil.oragne.dev
+Path: tinfoil.json
+Title: oragne shop
+```
+
+If the one above isn't functioning, try this one below:
+
+```
+Protocol: https
+Host: raw.githubusercontent.com
+Path: orn8/tinfoil/main/tinfoil.json
+Title: oragne shop
 ```
 
 ## SwitchBR (Available)
