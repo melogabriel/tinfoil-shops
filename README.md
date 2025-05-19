@@ -77,7 +77,7 @@ Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
 ```
-## Ghost eShop RETRO ([Available](https://www.reddit.com/r/ghosteshop/comments/1jv1f8f/retro_shop_is_back_again/))
+## Ghost eShop RETRO (Available)
 
 ```
 Protocol: https
