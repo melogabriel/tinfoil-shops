@@ -23,7 +23,7 @@ This repository installs a package with the shops below. Adding this one should 
 ```
 Protocol: https
 Host: opennx.github.io
-Path: /tinfoil/shops.json
+Path: /tinfoil.json
 Title: Open NX
 ```
 
