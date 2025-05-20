@@ -9,6 +9,8 @@
 If you find this tool useful, please consider starring our repository: [Star on Github](https://github.com/melogabriel/tinfoil-shops) 
 
 To check which tinfoil shops are working now, go to [this repository](https://github.com/melogabriel/tinfoil-shops-status).
+
+If you have any shops to add, open an [issue](https://github.com/melogabriel/tinfoil-shops/issues/new) or make a [pull request](https://github.com/melogabriel/tinfoil-shops/pulls).
                
 ___
 
@@ -23,7 +25,7 @@ This repositories installs a package with the shops below. Adding this one shoul
 ```
 Protocol: https
 Host: opennx.github.io
-Path: /tinfoil.json
+Path: tinfoil.json
 Title: Open NX
 ```
 
@@ -53,7 +55,7 @@ Host: switchbr.com
 Title: SwitchBR
 ```
 
-## World Digital (⚠️ Unavailable)
+## World Digital
 
 ```
 Protocol: https
