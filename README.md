@@ -47,6 +47,14 @@ Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
 
+## Gandalf eShop (Available)
+
+```
+Protocol: https
+Host: gandalfsax.com
+Title: Gandalf eShop
+```
+
 ## SwitchBR (Available)
 
 ```
