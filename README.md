@@ -28,6 +28,16 @@ Host: opennx.github.io
 Path: tinfoil.json
 Title: Open NX
 ```
+If it doesn't work, try this way:
+
+```
+Protocol: https
+Host: raw.githubusercontent.com
+Path: opennx/opennx.github.io/main/tinfoil.json
+Title: Open NX
+```
+
+## oragne shop
 
 Add this location to Tinfoil's file browser to use oragne shop:
 
