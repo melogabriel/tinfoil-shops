@@ -18,7 +18,7 @@ ___
 
 To add shops to Tinfoil go to Tinfoil > File Browser > Press - New > Fill the fields with the information about the shop you want.
 
-## Open NX
+## [Open NX](https://github.com/OpenNX/opennx.github.io)
 
 This repositories installs a package with the shops below. Adding this one should be enough and recommended for your game library.
 
