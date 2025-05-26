@@ -57,7 +57,7 @@ Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
 
-## Gandalf eShop (Available)
+## Gandalf eShop
 
 ```
 Protocol: https
@@ -65,7 +65,7 @@ Host: gandalfsax.com
 Title: Gandalf eShop
 ```
 
-## SwitchBR (Available)
+## SwitchBR 
 
 ```
 Protocol: http
@@ -83,7 +83,7 @@ Path: /
 Title: world digital
 ```
 
-## NX Shared Saves (Available) 
+## NX Shared Saves 
 
 This shop contains modified save files that are installable on many games.
 ```
@@ -92,7 +92,7 @@ Host: nx-saves.ghostland.at
 Title: NX Shared Saves
 ```
 
-## Egg Fried Rize Shop (⚠️ Unavailable)
+## Egg Fried Rize Shop 
 
 ```
 Protocol: https
@@ -100,7 +100,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Ultra NX (⚠️ Unavailable)
+## Ultra NX 
 
 ```
 Protocol: https
@@ -109,13 +109,13 @@ Path:/tinfoil
 Title: Ultra NX
 ```
 
-## Ghost eShop (Under maintenance)
+## Ghost eShop 
 ```
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
 ```
-## Ghost eShop RETRO (Available)
+## Ghost eShop RETRO
 
 ```
 Protocol: https
