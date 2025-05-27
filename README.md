@@ -1,4 +1,8 @@
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/melogabriel/tinfoil-shops/actions/workflows/jekyll-gh-pages.yml)
+![GitHub Repo stars](https://img.shields.io/github/stars/melogabriel/tinfoil-shops)
+![GitHub watchers](https://img.shields.io/github/watchers/melogabriel/tinfoil-shops)
+
+
 
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tinfoil%20Shops) <a href="https://www.buymeacoffee.com/gabrielmelo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
