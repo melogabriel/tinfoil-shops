@@ -60,6 +60,19 @@ Host: raw.githubusercontent.com
 Path: orn8/tinfoil/main/tinfoil.json
 Title: oragne shop
 ```
+## Ghost eShop 
+```
+Protocol: https
+Host: nx.ghostland.at
+Title: Ghost eShop PUBLIC
+```
+## Ghost eShop RETRO
+
+```
+Protocol: https
+Host: nx-retro.ghostland.at
+Title: Ghost eShop RETRO
+```
 
 ## Gandalf eShop
 
@@ -111,20 +124,6 @@ Protocol: https
 Host: tinfoil.ultranx.ru
 Path:/tinfoil
 Title: Ultra NX
-```
-
-## Ghost eShop 
-```
-Protocol: https
-Host: nx.ghostland.at
-Title: Ghost eShop PUBLIC
-```
-## Ghost eShop RETRO
-
-```
-Protocol: https
-Host: nx-retro.ghostland.at
-Title: Ghost eShop RETRO
 ```
 
 ## Backup of Shops with various Functions
