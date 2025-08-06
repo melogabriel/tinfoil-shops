@@ -144,7 +144,11 @@ Protocol: https
 Host: e.cchi.me
 Title: ESA
 ```
+## [Reddit Channel to download Games and Updates (Not a Tinfoil Shop)](https://www.reddit.com/r/SWITCH2XCI/)
 
+```
+https://www.reddit.com/r/SWITCH2XCI/
+```
 # Requirements
 
 * Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended).
