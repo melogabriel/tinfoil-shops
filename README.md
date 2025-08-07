@@ -144,10 +144,15 @@ Protocol: https
 Host: e.cchi.me
 Title: ESA
 ```
-## [Reddit Channel to download Games and Updates (Not a Tinfoil Shop)](https://www.reddit.com/r/SWITCH2XCI/)
+## SWITCH2XCI Reddit and Discord Channel to download Games and Updates (Not a Tinfoil Shop)
 
+[Reddit](https://www.reddit.com/r/SWITCH2XCI/)
 ```
 https://www.reddit.com/r/SWITCH2XCI/
+```
+[Discord](https://discord.com/invite/Z4dW3eWGH3)
+```
+https://discord.com/invite/Z4dW3eWGH3
 ```
 # Requirements
 
