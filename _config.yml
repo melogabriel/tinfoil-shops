@@ -4,7 +4,7 @@ remote_theme: jekyll/minima@8106bd4
 plugins:
   - jekyll-seo-tag
 google_analytics: G-SGVB5NZ2DK
-google_adsense_publisher_id: ca-pub-9085973245464650
+google_adsense: ca-pub-9085973245464650
 minima:
   skin: auto
   hide_site_feed_link: true
