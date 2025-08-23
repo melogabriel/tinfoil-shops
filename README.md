@@ -24,7 +24,7 @@ To add shops to Tinfoil go to Tinfoil > File Browser > Press - New > Fill the fi
 
 ## [Open NX](https://github.com/OpenNX/opennx.github.io)
 
-This repositories installs a package with the shops below. Adding this one should be enough and recommended for your game library.
+This repository installs a package with the shops below and contains a status update for each shop in the success message. Adding this package should be sufficient and recommended for your game library.
 
 ```
 Protocol: https
@@ -145,7 +145,7 @@ Host: e.cchi.me
 Title: ESA
 ```
 
-### Gandalf eShop
+## Gandalf eShop
 
 ```
 Protocol: https
