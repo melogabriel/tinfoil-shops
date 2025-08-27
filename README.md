@@ -153,8 +153,9 @@ Host: gandalfsax.com
 Title: Gandalf eShop
 ```
 
-## SWITCH2XCI Reddit and Discord Channel to download Games and Updates (Tinfoil Alternative) 
-### Accept the codes to join the private channels on Reddit and Discord:
+## Tinfoil Alternatives
+
+### SWITCH2XCI Reddit and Discord Channel Accept the codes to join the private channels on Reddit and Discord:
 
 [Reddit](https://www.reddit.com/r/SWITCH2XCI/)
 ```
@@ -164,6 +165,15 @@ https://www.reddit.com/r/SWITCH2XCI/
 ```
 https://discord.com/invite/Z4dW3eWGH3
 ```
+
+### [Telegram Bot](https://t.me/NSW_TorrentLibrary)
+
+```
+https://t.me/NSW_TorrentLibrary
+Pass: Rome
+```
+
+
 # Requirements
 
 * Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended).
