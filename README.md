@@ -39,25 +39,6 @@ Path: opennx/opennx.github.io/main/tinfoil.json
 Title: Open NX
 ```
 
-## oragne shop
-
-Add this location to Tinfoil's file browser to use oragne shop:
-
-```
-Protocol: https
-Host: tinfoil.oragne.dev
-Path: tinfoil.json
-Title: oragne shop
-```
-
-If the one above isn't functioning, try this one below:
-
-```
-Protocol: https
-Host: raw.githubusercontent.com
-Path: orn8/tinfoil/main/tinfoil.json
-Title: oragne shop
-```
 ## Ghost eShop 
 ```
 Protocol: https
