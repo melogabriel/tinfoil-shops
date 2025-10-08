@@ -88,13 +88,12 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Ultra NX 
+## EpShop UK
 
 ```
 Protocol: https
-Host: tinfoil.ultranx.ru
-Path:/tinfoil
-Title: Ultra NX
+Host: free.epshop.uk
+Title: EpShop UK
 ```
 
 ## Backup of Shops with various Functions
