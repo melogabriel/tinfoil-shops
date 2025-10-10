@@ -66,7 +66,6 @@ Title: SwitchBR
 ```
 Protocol: https
 Host: free.worldigital-brasil.com
-Port: 443
 Path: /
 Title: world digital
 ```
