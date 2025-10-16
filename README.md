@@ -89,6 +89,8 @@ Title: Egg Fried Rice Shop
 
 ## EpShop UK
 
+To enjoy the content for free, please [register](https://epshop.uk/accounts/register/) and log in. Once registered, you'll get a FREE password for Tinfoil with limited device fingerprints. Upgrade to Pro any time for more speed and features.
+
 ```
 Protocol: https
 Host: free.epshop.uk
