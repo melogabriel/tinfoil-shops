@@ -124,14 +124,6 @@ Host: e.cchi.me
 Title: ESA
 ```
 
-## Gandalf eShop
-
-```
-Protocol: https
-Host: gandalfsax.com
-Title: Gandalf eShop
-```
-
 ## Tinfoil Alternatives
 
 ### SWITCH2XCI Reddit Channel [Accept the codes](https://docs.google.com/forms/d/e/1FAIpQLSe2GJNZ2rVqkSgc1odtfgKhlvfvfWFEnSRTlngaVO2BlM2gYw/viewform) to join the private channel:
