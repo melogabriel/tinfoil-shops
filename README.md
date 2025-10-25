@@ -97,9 +97,18 @@ Host: free.epshop.uk
 Title: EpShop UK
 ```
 
-## Magic Moneky
+## Magic Monekei
 
-VIP Tinfoil Shop. [Subscribe](https://app.magicmonkei.com/signup?r=opennx) to Magic Monkei and access a vast library of Tinfoil games.
+VIP Tinfoil Shop. [Subscribe](https://app.magicmonkei.com/signup?r=opennx) to Magic Monkei and access a vast library of Tinfoil games. 
+Next, go to [services page](https://app.magicmonkei.com/pt-BR/services) to view your user tinfoil server.
+
+Or go to this host and install the Magic Monkei app:
+
+```
+Protocol: https
+Host: magicmonkei.com/app
+Title: Magic Monkei App
+```
 
 ------------
 
