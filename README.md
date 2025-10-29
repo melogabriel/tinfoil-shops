@@ -87,16 +87,6 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## EpShop UK
-
-To enjoy the content for free, please [register](https://epshop.uk/accounts/register/) and log in. Once registered, you'll get a FREE password for Tinfoil with limited device fingerprints. Upgrade to Pro any time for more speed and features.
-
-```
-Protocol: https
-Host: free.epshop.uk
-Title: EpShop UK
-```
-
 ## Magic Monkei
 
 VIP Tinfoil Shop. [Subscribe](https://app.magicmonkei.com/signup?r=opennx) to Magic Monkei and access a vast library of Tinfoil games. 
