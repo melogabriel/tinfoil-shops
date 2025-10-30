@@ -141,13 +141,6 @@ Title: ESA
 
 ## Tinfoil Alternatives
 
-### SWITCH2XCI Reddit Channel [Accept the codes](https://docs.google.com/forms/d/e/1FAIpQLSe2GJNZ2rVqkSgc1odtfgKhlvfvfWFEnSRTlngaVO2BlM2gYw/viewform) to join the private channel:
-
-[Reddit](https://www.reddit.com/r/SWITCH2XCI/)
-```
-https://www.reddit.com/r/SWITCH2XCI/
-```
-
 ### [Telegram Bot](https://t.me/NSW_TorrentLibrary)
 
 ```
