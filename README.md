@@ -20,7 +20,7 @@ ___
 
 To add shops to Tinfoil go to Tinfoil > File Browser > Press - New > Fill the fields with the information about the shop you want.
 
-## [Open NX](https://github.com/OpenNX/opennx.github.io)
+## [Open NX](https://opennx.github.io)
 
 This repository installs a package with the shops below and contains a status update for each shop in the success message. Adding this package should be sufficient and recommended for your game library.
 
@@ -51,14 +51,6 @@ Title: Ghost eShop PUBLIC
 Protocol: https
 Host: nx-retro.ghostland.at
 Title: Ghost eShop RETRO
-```
-
-## SwitchBR 
-
-```
-Protocol: http
-Host: switchbr.com
-Title: SwitchBR
 ```
 
 ## World Digital
