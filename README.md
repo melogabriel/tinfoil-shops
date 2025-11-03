@@ -103,16 +103,6 @@ Title: Magic Monkei App
 
 ------------
 
-## Backup of Shops with various Functions
-
-```
-# JITS (works with your own GDrive if you follow https://games.jits.cc/account#instructions)
-Protocol: https
-Host: games.jits.site
-Path: shop
-Title: JITS
-```
-
 ## Ecchi's Firmware Archives (download all of switch firmware from Tinfoil)
 
 ```
