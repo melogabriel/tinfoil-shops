@@ -103,24 +103,6 @@ Title: Egg Fried Rice Shop
 
 ------------
 
-## Ecchi's Firmware Archives (download all of switch firmware from Tinfoil)
-
-```
-Protocol: https
-Host: e.cchi.me
-Path: firmware.tfl
-Title: EFA
-```
-
-## Ecchi's Archives (download save files and install them to your Switch [auto added by Tinfoil] )
-
-```
-Protocol: https
-Host: e.cchi.me
-Title: ESA
-```
-
-
 ## Tinfoil Alternatives
 
 ### [Telegram Bot](https://t.me/NSW_TorrentLibrary)
