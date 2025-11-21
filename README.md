@@ -101,16 +101,6 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Narnia Shop
-
-```
-Protocol: https
-Host: cdn.narniashop.fun
-Username: freeuser 
-Password: freeuser
-Title: Narnia Shop
-```
-
 ------------
 
 ## Tinfoil Alternatives
