@@ -101,7 +101,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## Kronos Zenten Shop
+## [Kronos Zenten Shop](https://myrincon.es/Zenten)
 
 ```
 Protocol: https
