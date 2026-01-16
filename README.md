@@ -109,6 +109,15 @@ Host: myrincon.es
 Path: /net/Zenten/
 Title: Kronos Zenten Shop
 ```
+
+## Gandalf eShop
+
+```
+Protocol: https
+Host: gandalfsax.com
+Title: Gandalf eShop
+```
+
 -----------
 
 ## Tinfoil Alternatives
