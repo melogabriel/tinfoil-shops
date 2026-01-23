@@ -39,7 +39,7 @@ Path: opennx/opennx.github.io/main/tinfoil.json
 Title: Open NX
 ```
 
-### Magic Monkei
+## [Magic Monkei](https://app.magicmonkei.com/signup?r=opennx)
 
 VIP Tinfoil Shop. [Subscribe](https://app.magicmonkei.com/signup?r=opennx) to Magic Monkei and access a vast library of Tinfoil games. 
 Next, add your user tinfoil server:
