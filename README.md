@@ -118,6 +118,18 @@ Host: gandalfsax.com
 Title: Gandalf eShop
 ```
 
+### [Emre Game Shop](https://tinfoil.emre.zip)
+
+Paid Tinfoil shop with 3-day free trial available.
+```
+Protocol: https
+Host: tinfoil.emre.zip
+Path: /api/shop
+Username: your-username
+Password: your-password
+Title: Emre Game Shop
+```
+
 -----------
 
 ## Tinfoil Alternatives
