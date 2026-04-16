@@ -39,9 +39,9 @@ Path: opennx/opennx.github.io/main/tinfoil.json
 Title: Open NX
 ```
 
-## [Magic Monkei](https://affiliate.magicmonkei.com/pt-BR/signup?ref=opennx)
+### [Magic Monkei](https://affiliate.magicmonkei.com/pt-BR/signup?ref=opennx)
 
-VIP Tinfoil Shop. [Subscribe](https://affiliate.magicmonkei.com/pt-BR/signup?ref=opennx) to Magic Monkei and access a vast library of Tinfoil games. 
+Paid Tinfoil Shop and Homebrew App. [Subscribe](https://affiliate.magicmonkei.com/pt-BR/signup?ref=opennx) to Magic Monkei and access a vast library of Tinfoil games. 
 Next, add your user tinfoil server:
 
 ```
@@ -61,31 +61,34 @@ Host: magicmonkei.com/app
 Title: Magic Monkei App
 ```
 
-## Ghost eShop 
+### Ghost eShop
 ```
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
 ```
-## Ghost eShop RETRO
 
+### Ghost eShop RETRO
 ```
 Protocol: https
 Host: nx-retro.ghostland.at
 Title: Ghost eShop RETRO
 ```
 
-## World Digital
+### [World Digital](https://free.worldigital-brasil.com/auth?ref=11699060)
 
+Paid Tinfoil Shop. [Subscribe](https://free.worldigital-brasil.com/auth?ref=11699060) and you will get 7 extra days when you subscribe to any plan. 
+Next, add your user tinfoil server:
 ```
 Protocol: https
 Host: free.worldigital-brasil.com
-Path: /
-Title: world digital
+Path: 
+Username: your-username 
+Password: your-password
+Title: World Digital
 ```
 
-## NX Shared Saves 
-
+### NX Shared Saves
 This shop contains modified save files that are installable on many games.
 ```
 Protocol: https
@@ -93,15 +96,14 @@ Host: nx-saves.ghostland.at
 Title: NX Shared Saves
 ```
 
-## Egg Fried Rize Shop 
-
+### Egg Fried Rize Shop
 ```
 Protocol: https
 Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-## [Kronos Zenten Shop](https://myrincon.es/Zenten)
+### [Kronos Zenten Shop](https://myrincon.es/Zenten)
 
 ```
 Protocol: https
@@ -109,8 +111,7 @@ Host: myrincon.es
 Path: /net/Zenten/
 Title: Kronos Zenten Shop
 ```
-
-## Gandalf eShop
+### Gandalf eShop
 
 ```
 Protocol: https
@@ -120,7 +121,8 @@ Title: Gandalf eShop
 
 ### [Emre Game Shop](https://tinfoil.emre.zip)
 
-Paid Tinfoil shop with 3-day free trial available.
+Paid Tinfoil shop. 3-day free trial available. [Sign up](https://tinfoil.emre.zip/sign-up) to get your credentials.
+
 ```
 Protocol: https
 Host: tinfoil.emre.zip
@@ -129,8 +131,7 @@ Username: your-username
 Password: your-password
 Title: Emre Game Shop
 ```
-
------------
+---------
 
 ## Tinfoil Alternatives
 
