@@ -119,18 +119,20 @@ Host: gandalfsax.com
 Title: Gandalf eShop
 ```
 
-### [Emre Game Shop](https://tinfoil.emre.zip)
+### [Pixel Goblin](https://pixelgoblin.link/)
 
-Paid Tinfoil shop. 3-day free trial available. [Sign up](https://tinfoil.emre.zip/sign-up) to get your credentials.
+Subscription Tinfoil shop with a 3-day free trial. [Sign up](https://pixelgoblin.link/sign-up) to get your credentials, then add your user tinfoil server:
 
 ```
 Protocol: https
-Host: tinfoil.emre.zip
+Host: pixelgoblin.link
 Path: /api/shop
 Username: your-username
 Password: your-password
-Title: Emre Game Shop
+Title: Pixel Goblin
 ```
+---------
+
 ---------
 
 ## Tinfoil Alternatives
