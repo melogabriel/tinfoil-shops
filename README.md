@@ -75,9 +75,9 @@ Host: nx-retro.ghostland.at
 Title: Ghost eShop RETRO
 ```
 
-### [World Digital](https://free.worldigital-brasil.com/auth?ref=11699060)
+### World Digital
 
-Paid Tinfoil Shop. [Subscribe](https://free.worldigital-brasil.com/auth?ref=11699060) and you will get 7 extra days when you subscribe to any plan. 
+Paid Tinfoil Shop. Subscribe and you will get 7 extra days when you subscribe to any plan. 
 Next, add your user tinfoil server:
 ```
 Protocol: https
@@ -103,7 +103,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-### [Kronos Zenten Shop](https://myrincon.es/Zenten)
+### Kronos Zenten Shop
 
 ```
 Protocol: https
@@ -119,9 +119,9 @@ Host: gandalfsax.com
 Title: Gandalf eShop
 ```
 
-### [Pixel Goblin](https://pixelgoblin.link/)
+### Pixel Goblin
 
-Subscription Tinfoil shop with a 3-day free trial. [Sign up](https://pixelgoblin.link/sign-up) to get your credentials, then add your user tinfoil server:
+Paid Tinfoil shop with a 3-day free trial. Sign up to get your credentials, then add your user tinfoil server:
 
 ```
 Protocol: https
