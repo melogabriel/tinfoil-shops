@@ -137,6 +137,15 @@ Title: Pixel Goblin
 
 ## Tinfoil Alternatives
 
+### [Cyberfoil](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) a fast, modern, and lightweight open-source alternative. In this [guide](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) you can see how to configure it seamlessly using the OpenNX cyberfoil.json setup:
+
+```
+Protocol: https
+Host: opennx.github.io
+Path: /cyberfoil.json
+Title: Open NX
+```
+
 ### SWITCH2XCI Reddit Channel [Accept the codes](https://docs.google.com/forms/d/e/1FAIpQLSe2GJNZ2rVqkSgc1odtfgKhlvfvfWFEnSRTlngaVO2BlM2gYw/viewform) to join the private channel:
 
 [Reddit](https://www.reddit.com/r/SWITCH2XCI/)
