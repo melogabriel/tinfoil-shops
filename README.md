@@ -53,7 +53,18 @@ Password: your-password
 Title: Magic Monkei
 ```
 
-Or go to this host and install the Magic Monkei app:
+Cyberfoil Shop version:
+
+```
+Protocol: https
+Host: cyberfoil.magicmonkei.com
+Path: 
+Username: your-username 
+Password: your-password
+Title: Magic Monkei
+```
+
+Or go to this host and install the [Magic Monkei app](https://github.com/magicmonkei/nsp/releases)
 
 ```
 Protocol: https
