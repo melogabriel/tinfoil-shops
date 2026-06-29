@@ -93,6 +93,16 @@ Password: your-password
 Title: Pixel Goblin
 ```
 
+### Port NX
+
+Free Port Shop to Stream Native Game Ports:
+```
+Protocol: https
+Host: tiny.cc
+Path: /portnx
+Title: Port NX
+```
+
 ### Ghost eShop
 ```
 Protocol: https
