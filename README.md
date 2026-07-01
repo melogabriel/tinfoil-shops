@@ -98,8 +98,8 @@ Title: Pixel Goblin
 Free Port Shop to Stream Native Game Ports:
 ```
 Protocol: https
-Host: tiny.cc
-Path: /portnx
+Host: tinyurl.com
+Path: /4c5p9ww7
 Title: Port NX
 ```
 
