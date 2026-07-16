@@ -167,7 +167,13 @@ Title: Gandalf eShop
 
 ## Tinfoil Alternatives
 
-### [Cyberfoil](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) a fast, modern, and lightweight open-source alternative. In this [guide](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) you can see how to configure it seamlessly using the OpenNX cyberfoil.json setup:
+### [DBI Installer](https://opennx.github.io/dbi-network-repositories-setup-guide/) — An Ultra-Lightweight Network Alternative 
+
+If you prefer a lightweight, robust tool that completely bypasses heavy interface designs, **DBI** is an excellent alternative method for direct network streaming. Check out our complete [DBI Configuration Guide](https://opennx.github.io/dbi-network-repositories-setup-guide/) to see how to quickly configure high-speed indexes like **Pixel Goblin** and **notUltraNX** onto your device.
+
+### [Cyberfoil](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) a fast, modern, and lightweight open-source alternative. 
+
+In this [guide](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) you can see how to configure it seamlessly using the OpenNX cyberfoil.json setup:
 
 ```
 Protocol: https
@@ -183,6 +189,7 @@ Title: Open NX
 https://www.reddit.com/r/SWITCH2XCI/
 ```
 
+---
 
 ### [Telegram Bot](https://t.me/NSW_TorrentLibrary)
 
