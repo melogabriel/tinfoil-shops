@@ -167,9 +167,9 @@ Title: Gandalf eShop
 
 ## Tinfoil Alternatives
 
-### [DBI Installer](https://opennx.github.io/dbi-network-repositories-setup-guide/) — An Ultra-Lightweight Network Alternative 
+### [DBI Installer](https://opennx.github.io/ditching-tinfoil-for-dbi-network-repositories/) — An Lightweight Network Alternative 
 
-If you prefer a lightweight, robust tool that completely bypasses heavy interface designs, **DBI** is an excellent alternative method for direct network streaming. Check out our complete [DBI Configuration Guide](https://opennx.github.io/dbi-network-repositories-setup-guide/) to see how to quickly configure high-speed indexes like **Pixel Goblin** and **notUltraNX** onto your device.
+If you prefer a lightweight, robust tool that completely bypasses heavy interface designs, **DBI** is an excellent alternative method for direct network streaming. Check out our complete [DBI Configuration Guide](https://opennx.github.io/ditching-tinfoil-for-dbi-network-repositories/) to see how to quickly configure high-speed indexes like **Pixel Goblin** and **notUltraNX** onto your device.
 
 ### [Cyberfoil](https://opennx.github.io/ditching-tinfoil-for-cyberfoil-a-complete-setup-guide/) a fast, modern, and lightweight open-source alternative. 
 
