@@ -70,6 +70,30 @@ Host: magicmonkei.com/app
 Title: Magic Monkei App
 ```
 
+### [GameUpdate](https://gameupdate.org/r/trsfe5km)
+
+Paid Tinfoil/Cyberfoil shop  with a 3-day free trial. [Sign up](https://gameupdate.org/r/trsfe5k) to get your credentials, then add your user tinfoil server:
+```
+Protocol: https
+Host: gameupdate.org
+Path: /api/shop
+Username: your-username
+Password: your-password
+Title: GameUpdate
+```
+
+Cyberfoil Shop version:
+```
+Protocol: https
+Host: gameupdate.org
+Port: 443
+Path: /api/shop
+Username: your-username
+Password: your-password
+Title: GameUpdate
+```
+
+
 ### [Pixel Goblin](https://pixelgoblin.link/r/awarelocale28)
 
 Paid Tinfoil/Cyberfoil shop with a 3-day free trial. [Sign up](https://pixelgoblin.link/r/awarelocale28) to get your credentials, then add your user tinfoil server:
