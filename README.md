@@ -93,30 +93,6 @@ Password: your-password
 Title: GameUpdate
 ```
 
-
-### [Pixel Goblin](https://pixelgoblin.link/r/awarelocale28)
-
-Paid Tinfoil/Cyberfoil shop with a 3-day free trial. [Sign up](https://pixelgoblin.link/r/awarelocale28) to get your credentials, then add your user tinfoil server:
-```
-Protocol: https
-Host: pixelgoblin.link
-Path: /api/shop
-Username: your-username
-Password: your-password
-Title: Pixel Goblin
-```
-
-Cyberfoil Shop version:
-```
-Protocol: https
-Host: pixelgoblin.link
-Port: 443
-Path: /api/shop
-Username: your-username
-Password: your-password
-Title: Pixel Goblin
-```
-
 ### Port NX
 
 Free Port Shop to Stream Native Game Ports:
